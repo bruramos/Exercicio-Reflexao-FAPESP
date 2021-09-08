@@ -1,4 +1,4 @@
-# Seleção Bolsista FAPESP - Resolução do exercício
+# Seleção Bolsista FAPESP - Resolução do Exercício
 
 Projeto: Um Estudo sobre o Impacto de Anotações de Código na Evolução de Software
 
